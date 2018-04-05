@@ -1,0 +1,37 @@
+.container-fluid {
+    background-image: url("../images/background.jpeg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 10%;
+}
+
+.dropdown-menu {
+    width: 600%;
+}
+
+.card-columns {
+   padding-top: 2%;
+}
+
+.blockquote-footer {
+    color: white;
+}
+
+.footerStyle .row {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    margin-right: 0;
+    margin-left: 0;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.card-columns a {
+color: #000000;
+
+}
+
+
+
